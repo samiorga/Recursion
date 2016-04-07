@@ -29,6 +29,7 @@ public class GCD {
         if (b == 0) {
             return a;
         } else {
+            System.out.println(a);
             return gcd(b, a % b);
         }
     }
