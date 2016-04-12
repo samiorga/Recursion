@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author iorgs3184
+ * @author samiorga
  */
 public class FibonacciNumbers {
 
